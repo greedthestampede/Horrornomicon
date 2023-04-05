@@ -1,0 +1,38 @@
+* {
+    background: black;
+}
+
+a {
+    color: aliceblue;
+}
+
+h1, h2 {
+    color: aliceblue;
+}
+
+p {
+    color: aliceblue;
+}
+
+header {
+    text-align: center;
+}
+
+footer {
+    position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  color: white;
+  text-align: center;
+}
+
+div {
+    text-align: center;
+}
+
+div.post-box {
+    border: 1px solid aliceblue;
+    margin-left: 15%;
+    margin-right: 15%;
+}
