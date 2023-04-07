@@ -7,7 +7,7 @@ const PostPreview = (props: PostMetadata) => {
                 <h2>{props.title}</h2>
             </Link>
                 <p>{props.subtitle}</p>
-                <p>{props.date}</p>
+                <p>{props.date} || {props.tags}</p>
         </div>
 };
 

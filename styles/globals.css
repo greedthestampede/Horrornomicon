@@ -36,3 +36,9 @@ div.post-box {
     margin-left: 15%;
     margin-right: 15%;
 }
+
+.texto-post {
+    text-align: justify;
+    margin-left: 5%;
+    margin-right: 5%;
+}

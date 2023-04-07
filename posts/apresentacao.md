@@ -1,8 +1,25 @@
 ---
-title: 'Se precisa de uma caçadora, encontrou.'
+title: 'O primeiro post serve pra você me contratar'
 subtitle: 'Vamos começar as caçadas?'
-date: '2023-04-03'
+date: '2023-04-07'
+tags: 'Apresentação'
 ---
-## Se precisa de uma caçadora, encontrou.
+## O primeiro post serve pra você me contratar
 
-Olár.
+<div class="texto-post">Olá a todos os clientes. Me chamo Letícia Livir e eu estou aqui pra te apresentar uma alternativa a essas dores de cabeça que você vem tendo com essas criaturinhas que estão aparecendo. É importante que você saiba que isso não é culpa sua ou de um encosto. Certamente é culpa de alguém, mas eu não posso falar a respeito sem perder a habilidade de respirar e de fazer todas as outras coisas também.
+
+Tirando de lado essa coisa de culpa, é importante entender como resolver esse problema. E até tem como você mesmo fazer isso, o que eu vou explicar volta e meia nesse blog, mas ter o auxílio de um profissional tem altas chances de manter os teus dentes na boca e a tua alma na boca. Confie em mim.
+
+Existem muitos tipos de bichinhos que podem te atazanar. Muitos deles são inofensivos, eu posso falar nesse blog deles de vez em quando. Deixem esses bichinhos em paz, é capaz de ter um deles por perto vai te trazer ou boa sorte ou proteção. O negócio é que tem também monstros que são muito perigosos até pra mim. Memso se tivesse um pelotão de eus pra derrotar um bicho desse não ia dar certo. Eu sei quem chamar, pode deixar que não vai ficar sem ajuda, mas esses bichos são poderosos demais. Mas tem uma faixa de criaturas que eu consigo lidar de maneira quieta, rápida e bem eficiente. Eu venho fazendo isso nos ultimos trinta anos que você nunca tinha ouvido falar desses bichinhos, não é mesmo? Só histórias aqui e ali que pareciam muito creepy pastas... Pois é.
+
+Todos esses bichinhos tem suas categorias próprias e sub-categorias dentro delas. É normal e importante categorizar pra identificar principalmente o nível de ameaça, sabe? Então por causa disso isso existe. Mas eu não vou usar esses termos aqui, porque eu acho que vai ser perigoso pra mim e vocês não vão entender do mesmo jeito. O que basta é entender que daqui pra frente eu vou chamar esses bichinhos de Pesadelos, que é uma maneira informal de um dos grupos que eu participei pra se referir a eles. E que o que é possível combater são os Pesadelos de níveis D, E e F.
+
+Os bichinhos de nível D ainda são bichinhos, mas são ariscos, na maioria. Como tudo, tem exceção. O ponto é que eles sempre tem uma condição, um gatilho, que fazem eles serem um pé no saco de lidar. Enquanto não mexerem com eles ou não entrarem no raio de visão deles, vocês estão bem. As consequências normalmente não são severas demais. É capaz que role um desmaio, uma diarréia, uma maldição. Mas todas essas são situações resolvíveis. Pelo menos você não vai morrer.
+
+Os de nível E já são mais perigosos. São feras que agem por instinto e podem atacar de maneira brutal causando em morte. Eles ainda não estão no próximo nível porque não são iteligentes e por causa disso é possível contornar o problema, desde que se tenha o máximo de cuidado. Na maioria das vezes é possível se livrar momentâneamente de um Pesadelo de nível E se fingindo de morto ou fingindo que a criatura não está ali. Saber qual que é qual que é a questão.
+
+Os Pesadelos de nível F são terríveis e me dão comichão também. As vezes é até dificil identificar quando alguém é um Pesadelo. Isso mesmo, eles podem ter forma de gente. Isso não é uma regra, mas é bem comum ver Pesadelos com forma humana que pensam como humano e não tem as travas sociais que a gente tem e por isso são bem cruéis. Ainda é possível lidar com eles, principalmente quando se identifica suas fraquezas. Muitas vezes eles tem um ponto fraco que é algo que destoa da carcaça humana deles. Tem que prestar atenção nisso quando estiver conversando com um estranho hoje em dia, mas cuidado para não ser babaca ou pre-conceituoso com uma pessoa diferente de você.
+
+Dá pra perceber que eu não falei nada muito profundo sobre Pesadelos de cada tipo nem dei exemplos deles. Isso porque a ideia desse blog é catalogar as criaturas que eu enfrentar daqui pra frente e ter dicas específicas dessa criaturas e de como se proteger e lidar com elas enquanto eu não chego. Por isso eu peço um favor para os clientes que contratarem meus serviços daqui pra frente, que é ceder a sua história pra eu utilizar ela como uma aula sobre aquele bichinho. Eu sei que meus clientes antigos vão deixar, porque eles me sugeriram isso, mas para os novos, apesar de eu não querer te forçar a isso, se você liberar vai ser bom pra você e quando tiver outro cliente com um bichinho que tu pode encontrar depois, você vai saber como lidar. Sejam bonzinhos.
+
+O próximo post nesse blog vai ser um caso que um cliente já liberou para ser usado como guia, mas eu vou intercalar com as dicas. Esperem um pouco porque eu sou nova nesse tipo de coisa. Espero que eu possa ser útil pra vocês, e espero que vocês me chamem bastante!</div>
